@@ -2,15 +2,6 @@
 
 Dieses Repository enthält den Code und den Bericht für die Datenvorbereitung, Modellierung und Evaluierung verschiedener Klassifikationsalgorithmen zur Unterscheidung zwischen Rauchern und Nichtrauchern.
 
-## Inhaltsverzeichnis
-
-1. [Überblick](#überblick)
-2. [Datenvorbereitung](#datenvorbereitung)
-3. [Modellierung](#modellierung)
-4. [Evaluierung](#evaluierung)
-5. [Ergebnisse](#ergebnisse)
-6. [Weiterführende Informationen](#weiterführende-informationen)
-
 ## Überblick
 
 In diesem Projekt wurde ein Klassifikationsmodell entwickelt, um zwischen Rauchern und Nichtrauchern zu unterscheiden. Es wurden verschiedene Algorithmen wie SVM, Decision Tree, Random Forest, k-NN und Logistic Regression verwendet und evaluiert.
